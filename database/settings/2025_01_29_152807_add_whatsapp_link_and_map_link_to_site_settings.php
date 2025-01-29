@@ -6,7 +6,6 @@ return new class extends SettingsMigration
 {
     public function up(): void
     {
-        $this->migrator->add('site.whatsapp_link', '');
         $this->migrator->add('site.map_link', '');
     }
 };
