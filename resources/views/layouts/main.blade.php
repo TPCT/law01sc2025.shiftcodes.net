@@ -35,7 +35,7 @@
 
 <body class="homepage1-body {{app()->getLocale() == "ar" ? "arabic-version" : ""}}">
     <x-layout.header></x-layout.header>
-    @if ($whatsapp_link = app(\App\Settings\Site::class)->$whatsapp_link)
+    @if ($whatsapp_link = app(\App\Settings\Site::class)->whatsapp_link)
         <div id="fixed-icon" class="show">
             <a href="{{$whatsapp_link}}" target="_blank">
                 <img src="{{asset('/images/whats.png')}}" style="width:60px;height:60px">
