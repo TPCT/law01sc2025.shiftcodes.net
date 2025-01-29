@@ -5,14 +5,11 @@
                 <div class="pbmit-tbar">
                     <div class="pbmit-tbar-inner container">
                         <h1 class="pbmit-tbar-title">{{$title}}</h1>
-						
-						<div style="display: flex; justify-content: center; align-items: center; height: 100%; width: 100% ">
-
-  								  <a id="custom-btn" href="" class="custom-btn">Contact us</a>
-						</div>
-
-
-
+                        @if (request()->route()->getName() != "site.contact-us")
+                            <div style="display: flex; justify-content: center; align-items: center; height: 100%; width: 100% ">
+                                  <a id="custom-btn" href="{{route('site.contact-us')}}" class="custom-btn">@lang('site.Contact us')</a>
+                            </div>
+                        @endif
                     </div>
  
                 </div>
