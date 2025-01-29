@@ -117,9 +117,11 @@
                     </div>
                 </div>
             </section>
-           <section class="contact-section-map">
-            <iframe src="https://maps.google.com/maps?q=jersery%20city%20new%20york&amp;t=m&amp;z=15&amp;output=embed&amp;iwloc=near" title="jersery city new york" aria-label="jersery city new york"></iframe>
-         </section>
+            @if ($map_link = app(\App\Settings\Site::class)->map_link)
+               <section class="contact-section-map">
+                    <iframe src="{{$map_link}}" title="jersery city new york" aria-label="jersery city new york"></iframe>
+               </section>
+            @endif
         </div>
     </section>
 @endsection
