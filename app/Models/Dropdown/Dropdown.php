@@ -89,6 +89,7 @@ class Dropdown extends Model implements \OwenIt\Auditing\Contracts\Auditable
     public const MENU_CATEGORY = "Menu Category";
     public const BLOCK_CATEGORY = "Block Category";
     public const BLOG_CATEGORY = "Blog Category";
+    public const PROJECT_CATEGORY = "Project Category";
 
     public static function getCategories(): array
     {
@@ -96,6 +97,7 @@ class Dropdown extends Model implements \OwenIt\Auditing\Contracts\Auditable
             self::MENU_CATEGORY => __(self::MENU_CATEGORY),
             self::BLOCK_CATEGORY => __(self::BLOCK_CATEGORY),
             self::BLOG_CATEGORY => __(self::BLOG_CATEGORY),
+            self::PROJECT_CATEGORY => __(self::PROJECT_CATEGORY),
         ];
     }
 
