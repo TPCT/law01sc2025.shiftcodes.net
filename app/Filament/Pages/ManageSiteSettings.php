@@ -111,7 +111,11 @@ class ManageSiteSettings extends SettingsPage
                                     TextInput::make('twitter_link')
                                         ->label(__("Twitter")),
                                     TextInput::make('youtube_link')
-                                        ->label(__("Youtube"))
+                                        ->label(__("Youtube")),
+                                    TextInput::make('whatsapp_link')
+                                        ->label(__("Whatsapp")),
+                                    TextInput::make('map_link')
+                                        ->label(__("Map Link")),
                                 ])
                                 ->columnSpan(1)
                                 ->columns(1),

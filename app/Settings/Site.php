@@ -50,6 +50,7 @@ class Site extends Settings
     public ?string $app_store_link;
     public ?string $play_store_link;
     public ?string $app_gallery_link;
+    public ?string $map_link;
     public ?array $company_profile;
 
     public ?int $default_page_size;

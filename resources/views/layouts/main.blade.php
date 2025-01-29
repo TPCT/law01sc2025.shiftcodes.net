@@ -35,9 +35,13 @@
 
 <body class="homepage1-body {{app()->getLocale() == "ar" ? "arabic-version" : ""}}">
     <x-layout.header></x-layout.header>
-<div id="fixed-icon" class="show">
-        <a href="https://wa.link/gixcva" target="_blank"><img src="https://tahergrp.org/assets/img/whats.png" style="width:60px;height:60px"></a>
-  </div>
+    @if ($whatsapp_link = app(\App\Settings\Site::class)->$whatsapp_link)
+        <div id="fixed-icon" class="show">
+            <a href="{{$whatsapp_link}}" target="_blank">
+                <img src="{{asset('/images/whats.png')}}" style="width:60px;height:60px">
+            </a>
+        </div>
+    @endif
     <div class="page-content @yield('class')" style="min-height: 100vh">
         @yield('content')
     </div>
