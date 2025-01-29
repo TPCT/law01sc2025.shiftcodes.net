@@ -39,10 +39,6 @@ Route::prefix('{locale?}')
                     ->middleware('throttle:5,1');
             });
 
-        Route::resource('projects', \App\Http\Controllers\ProjectsController::class)->only([
-            'index', 'show'
-        ]);
-
         Route::resource('services', \App\Http\Controllers\ServicesController::class)->only([
             'show', 'index'
         ]);
