@@ -1,0 +1,174 @@
+[22-Jan-2025 17:12:06 Europe/Berlin] PHP Warning:  require(/home/shiftcod/public_html/vendor/composer/../mtdowling/jmespath.php/src/JmesPath.php): Failed to open stream: No such file or directory in /home/shiftcod/public_html/vendor/composer/autoload_real.php on line 41
+[22-Jan-2025 17:12:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/public_html/vendor/composer/../mtdowling/jmespath.php/src/JmesPath.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/shiftcod/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/shiftcod/public_html/vendor/autoload.php(25): ComposerAutoloaderInit75fd674f81028aef47eb8dff84737d63::getLoader()
+#2 /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php(34): require('/home/shiftcod/...')
+#3 {main}
+  thrown in /home/shiftcod/public_html/vendor/composer/autoload_real.php on line 41
+[22-Jan-2025 17:12:09 Europe/Berlin] PHP Warning:  require(/home/shiftcod/public_html/vendor/composer/../mtdowling/jmespath.php/src/JmesPath.php): Failed to open stream: No such file or directory in /home/shiftcod/public_html/vendor/composer/autoload_real.php on line 41
+[22-Jan-2025 17:12:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/public_html/vendor/composer/../mtdowling/jmespath.php/src/JmesPath.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/shiftcod/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/shiftcod/public_html/vendor/autoload.php(25): ComposerAutoloaderInit75fd674f81028aef47eb8dff84737d63::getLoader()
+#2 /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php(34): require('/home/shiftcod/...')
+#3 {main}
+  thrown in /home/shiftcod/public_html/vendor/composer/autoload_real.php on line 41
+[22-Jan-2025 17:12:10 Europe/Berlin] PHP Warning:  require(/home/shiftcod/public_html/vendor/composer/../mtdowling/jmespath.php/src/JmesPath.php): Failed to open stream: No such file or directory in /home/shiftcod/public_html/vendor/composer/autoload_real.php on line 41
+[22-Jan-2025 17:12:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/public_html/vendor/composer/../mtdowling/jmespath.php/src/JmesPath.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/shiftcod/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/shiftcod/public_html/vendor/autoload.php(25): ComposerAutoloaderInit75fd674f81028aef47eb8dff84737d63::getLoader()
+#2 /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php(34): require('/home/shiftcod/...')
+#3 {main}
+  thrown in /home/shiftcod/public_html/vendor/composer/autoload_real.php on line 41
+[22-Jan-2025 18:08:29 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[22-Jan-2025 18:08:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[22-Jan-2025 18:40:56 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[22-Jan-2025 18:40:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[22-Jan-2025 20:58:38 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[22-Jan-2025 20:58:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[22-Jan-2025 20:58:38 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[22-Jan-2025 20:58:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[22-Jan-2025 22:41:31 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[22-Jan-2025 22:41:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 01:02:15 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 01:02:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 01:29:41 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 01:29:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 02:41:13 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 02:41:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 02:41:14 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 02:41:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 02:41:16 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 02:41:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 02:41:17 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 02:41:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 03:02:06 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 03:02:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 03:02:06 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 03:02:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 03:02:12 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 03:02:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 03:02:13 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 03:02:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 03:46:27 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 03:46:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 08:51:07 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 08:51:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 15:25:55 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 15:25:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 15:28:15 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 15:28:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 16:14:40 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 16:14:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 17:14:38 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 17:14:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 17:29:46 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 17:29:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 18:28:20 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 18:28:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 19:32:30 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 19:32:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 19:32:47 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 19:32:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 19:33:21 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 19:33:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 19:33:23 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 19:33:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 19:36:07 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 19:36:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 19:36:28 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 19:36:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 19:45:08 Europe/Berlin] PHP Warning:  require(/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34
+[23-Jan-2025 19:45:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shiftcod/law01sc2025.shiftcodes.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiftcod/law01sc2025.shiftcodes.net/public/index.php on line 34

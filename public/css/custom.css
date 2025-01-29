@@ -1,0 +1,43 @@
+.error-404{
+    position: absolute;
+    margin: auto;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.contacticon-box.icon-box-one::after{
+    z-index: -1;
+}
+
+.contacticon-box h2{
+    word-break: break-all;
+}
+
+.contact-form .form-control{
+    color: black;
+}
+#fixed-icon.show {
+  visibility: visible;
+  opacity: 1;
+}
+#fixed-icon {
+  position: fixed;
+  bottom: 77px;
+  right: 20px;
+  z-index: 9999;
+  
+}
+
+.custom-btn a {
+border: solid 1px #b8967e;
+  border-radius: 20px;
+  padding: 10px;
+  color: #b8967e;
+}
+.custom-btn:hover{
+border: solid 1px #0a1d35;
+  border-radius: 20px;
+  padding: 10px;
+  color: #FFFFFF;
+background-color: #0a1d35;
+}
