@@ -10,8 +10,6 @@ use App\Models\ContactUs;
 use App\Models\Dropdown\Dropdown;
 use App\Models\Faq\Faq;
 use App\Models\News\News;
-use App\Models\Page\Page;
-use App\Models\Party\Party;
 use App\Models\Service\Service;
 use App\Models\Slider\Slider;
 use App\Models\TeamMember\TeamMember;

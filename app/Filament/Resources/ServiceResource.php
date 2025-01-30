@@ -8,9 +8,6 @@ use App\Filament\Components\TinyEditor;
 use App\Filament\Resources\ServiceResource\Pages;
 use App\Filament\Resources\ServiceResource\RelationManagers;
 use App\Helpers\Utilities;
-use App\Models\Dropdown\Dropdown;
-use App\Models\Language;
-use App\Models\Page\Page;
 use App\Models\Service;
 use CactusGalaxy\FilamentAstrotomic\Forms\Components\TranslatableTabs;
 use CactusGalaxy\FilamentAstrotomic\Resources\Concerns\ResourceTranslatable;
@@ -23,8 +20,6 @@ use Filament\Resources\Resource;
 use Filament\Tables;
 use Filament\Tables\Table;
 use FilamentTiptapEditor\TiptapEditor;
-use Illuminate\Database\Eloquent\Builder;
-use Illuminate\Database\Eloquent\SoftDeletingScope;
 
 class ServiceResource extends Resource
 {
@@ -123,7 +118,7 @@ class ServiceResource extends Resource
                                     ->required(),
                                 Forms\Components\Select::make('status')
                                     ->label(__("Status"))
-                                    ->options(Page::getStatuses())
+                                    ->options(Service\Service::getStatuses())
                                     ->native(false)
                                     ->default(1),
                             ])
